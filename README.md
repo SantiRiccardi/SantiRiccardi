@@ -4,15 +4,15 @@
 ### Companies I´ve work for
 ![image](https://user-images.githubusercontent.com/113537771/190638046-327ffdb9-eb2d-4077-a81e-9712288aba0c.png)
 
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 ### 📫 How to reach me: 
 https://www.linkedin.com/feed/
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun fact: :skier::horse_racing::weight_lifting_man::weight_lifting_man::lotus_position_man::airplane::ocean::guitar:   
+
+
+
+
+
+
