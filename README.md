@@ -1,5 +1,6 @@
 # **Welcome to my profile!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi I´m Santi 
+
+## **Hi I´m Santi** 
 * Argentinian :argentina: and Italian  🇮🇹
 * 🚩 I´m living in Italy
 * 📚 I studied Industrial Engineering
@@ -8,11 +9,11 @@ Hi I´m Santi
 * 💻 I´m studing Italian by myself
 
 
-### Companies I´ve work for
+## Companies I´ve work for
 ![image](https://user-images.githubusercontent.com/113537771/190638046-327ffdb9-eb2d-4077-a81e-9712288aba0c.png)
 
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/santiriccardi/)  &nbsp;
 <a href="mailto:santi.riccardi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/>
 
