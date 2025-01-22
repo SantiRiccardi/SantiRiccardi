@@ -1,5 +1,6 @@
-### Welcome to my profile! 	:call_me_hand:
-👋 Hi I´m Santi, future Digital Nomad :argentina:
+### Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+:
+Hi I´m Santi, future Digital Nomad :argentina:
 
 ### Companies I´ve work for
 ![image](https://user-images.githubusercontent.com/113537771/190638046-327ffdb9-eb2d-4077-a81e-9712288aba0c.png)
@@ -43,7 +44,7 @@
 ### Hosting/SaaS 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📈 My GitHub stats 
+## 📈 My GitHub Stats 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiRiccardi&show_icons=true&locale=en&layout=compact" alt="SantiRiccardi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SantiRiccardi&show_icons=true&theme=gotham" alt="SantiRiccardi" /></p>
