@@ -7,10 +7,15 @@
 - 🌱 I’m currently learning Data Science
 
 ### 📫 How to reach me: 
-https://www.linkedin.com/feed/
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/santiriccardi/)  &nbsp;
+<a href="mailto:santi.riccardi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/>
 
 ### ⚡ Fun fact: :skier::horse_racing::weight_lifting_man::weight_lifting_man::lotus_position_man::airplane::ocean::guitar:   
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 
 
