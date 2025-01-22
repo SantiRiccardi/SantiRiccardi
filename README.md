@@ -1,4 +1,4 @@
-### Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# **Welcome to my profile!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi I´m Santi :argentina: 🇮🇹
 
 ### Companies I´ve work for
